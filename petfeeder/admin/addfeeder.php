@@ -26,7 +26,6 @@
 
          }
 
-
          .content {
              padding: 5%;
          }
