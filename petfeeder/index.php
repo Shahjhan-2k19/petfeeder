@@ -21,7 +21,6 @@ if (isset($_GET['logout'])) {
   <title>Welcome</title>
   <link rel="stylesheet" type="text/css" href="style.css">
 
-
   <style>
     .header1 {
       width: 98%;
@@ -57,7 +56,6 @@ if (isset($_GET['logout'])) {
       width: 900px;
       height: auto;
       margin-top: 50px;
-
     }
 
     .cardbar {
@@ -70,7 +68,6 @@ if (isset($_GET['logout'])) {
       float: center;
       width: auto;
       height: auto;
-
     }
 
     .cardh {
@@ -83,7 +80,6 @@ if (isset($_GET['logout'])) {
       float: center;
       width: 100%;
       height: 80px;
-
     }
 
     table,
