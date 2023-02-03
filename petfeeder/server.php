@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// initializing variables
+// error initializing variables
 $username = "";
 $email    = "";
 $errors = array();
