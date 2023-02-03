@@ -1,5 +1,5 @@
 <?php
-//if no login 
+//if no login ..
 session_start();
 
 if (!isset($_SESSION['username'])) {
